@@ -1,0 +1,5 @@
+D:/Project/NewGame/.utmp/RelWithDebInfo/3m5pk5hb/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Project/NewGame/.utmp/RelWithDebInfo/3m5pk5hb/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Project/NewGame/.utmp/RelWithDebInfo/3m5pk5hb/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Project/NewGame/.utmp/RelWithDebInfo/3m5pk5hb/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Project/NewGame/.utmp/RelWithDebInfo/3m5pk5hb/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

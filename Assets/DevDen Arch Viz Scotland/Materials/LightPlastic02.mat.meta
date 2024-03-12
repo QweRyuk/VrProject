@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72d7b22388f9b924f8e6832e0f958fc2
+timeCreated: 1533923477
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 158539
+  packageName: DevDen ArchViz Vol 1 - Scotland
+  packageVersion: 1.1
+  assetPath: Assets/DevDen Arch Viz Scotland/Materials/LightPlastic02.mat
+  uploadId: 621699
